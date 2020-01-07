@@ -1,0 +1,21 @@
+
+body {
+    background-color: black;
+  color: white;
+}
+
+p {
+    color: blue;
+    background-color: black;
+}
+th {
+  color: blue;
+  background-color: white
+}
+td {
+  color: blue;
+  background-color: white
+}
+table, td{
+  border: 1px solid orange;
+}
