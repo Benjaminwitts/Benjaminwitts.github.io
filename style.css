@@ -1,12 +1,12 @@
 
 body {
     background-color: darkgrey;
-  color: white;
+  color: darkgrey;
 }
 
 p {
     color: black;
-    background-color: grey;
+    background-color: darkgrey;
 }
 th {
   color: black;
