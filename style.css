@@ -1,19 +1,19 @@
 
 body {
-    background-color: black;
+    background-color: grey;
   color: white;
 }
 
 p {
-    color: blue;
-    background-color: black;
+    color: black;
+    background-color: grey;
 }
 th {
-  color: blue;
+  color: black;
   background-color: white
 }
 td {
-  color: blue;
+  color: black;
   background-color: white
 }
 table, td{
