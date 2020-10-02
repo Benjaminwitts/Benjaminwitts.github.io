@@ -1,0 +1,94 @@
+#menu li{
+  display: inline;
+  float: left;
+}
+
+#menu{
+  margin: 0px;
+  padding: 0px;
+  background-color: black;
+  overflow: hidden;
+}
+
+#menu a{
+  display: block;
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+}
+
+#quote{
+  font-style: italic;
+}
+
+
+#sp{
+  text-align: left;
+}
+
+#menu a:hover{
+  background-color: white;
+  color: black;
+}
+
+#Popo{
+  text-decoration: none;
+  color: black;
+}
+
+table.JUP {
+  border: 1px solid black;
+}
+
+table.JUP th {
+  border: 1px solid red;
+}
+
+table.JUP td {
+  border: 1px solid green;
+}
+
+a {
+  text-decoration: none;
+  color: orange;
+}
+
+* {
+  margin: 20px;
+  padding: 10px;
+}
+
+
+
+h1, h2{
+  color: black;
+}
+
+#Sun{
+  color: red
+}
+
+
+body{
+  background-color: lightgrey;
+  background-image: url();
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-attachment: fixed;
+}
+
+h1{
+  text-align: center;
+  font-family: cursive;
+  font-size: 30px
+}
+h2{
+  text-align: center;
+  font-family: monospace;
+  font-size: 20px
+}
+p{
+  text-align: center;
+  font-family: cursive;
+  font-size: 20px;
+}
