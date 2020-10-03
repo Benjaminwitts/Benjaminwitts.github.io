@@ -1,0 +1,20 @@
+
+body {
+    background-color: darkgrey;
+    color: black
+
+p {
+    color: black;
+    background-color: black
+}
+th {
+    color: black;
+    background-color: black
+}
+td {
+    color: black;
+    background-color: white
+}
+table, td{
+    border: 1px solid orange
+}
